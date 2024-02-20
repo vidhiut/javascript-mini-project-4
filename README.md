@@ -14,3 +14,5 @@ learning-->
 -  set img property in js
 -  adding element in html
 4.Graceful Removal with settimeout
+
+note-->inspiration https://our-revolution.com/
